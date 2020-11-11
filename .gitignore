@@ -1,2 +1,5 @@
 tmp.*
 tmp1.*
+data/*
+
+!data/a.py
